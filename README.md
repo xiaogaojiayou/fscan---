@@ -1,4 +1,4 @@
-# fscan---
+# fscan-免杀-二开
 可免杀火绒，360,Defender ，GW小绿球
 ![image](https://github.com/user-attachments/assets/f636b728-ca38-4b7a-b497-4c09123b49b7)
 ![image](https://github.com/user-attachments/assets/91220321-c206-4281-bb2b-968e0649e4ee)
